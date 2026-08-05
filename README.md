@@ -51,3 +51,41 @@ Building scalable enterprise applications using **ASP.NET Core, C#, Web API, SQL
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 Employee Management System
+
+Enterprise-level ASP.NET Core Web API built by following modern software architecture and development practices.
+
+**Key Highlights**
+
+- Clean Architecture
+- CQRS with MediatR
+- JWT Authentication & Authorization
+- Role-Based Access Control (RBAC)
+- Entity Framework Core
+- SQL Server
+- Repository & Unit of Work Pattern
+- Global Exception Handling
+- FluentValidation
+- AutoMapper
+- Swagger API Documentation
+
+> 🔗 Repository: *(Repository link will be added after making it public.)*
+
+---
+
+### 🧵 StitchDesk ERP *(In Progress)*
+
+A commercial SaaS Tailor Management ERP being designed with a software-company approach.
+
+**Current Focus**
+
+- Business Analysis
+- Requirement Gathering
+- System Design
+- Database Design
+- Scalable Architecture
