@@ -82,10 +82,29 @@ Enterprise-level ASP.NET Core Web API built by following modern software archite
 
 A commercial SaaS Tailor Management ERP being designed with a software-company approach.
 
-**Current Focus**
+---
 
-- Business Analysis
-- Requirement Gathering
-- System Design
-- Database Design
-- Scalable Architecture
+## 🚀 Current Focus
+
+- Advanced ASP.NET Core
+- Angular
+- Flutter
+- Building StitchDesk ERP
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mirathod25" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:irfanrathod.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/irfanrathodwork" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
